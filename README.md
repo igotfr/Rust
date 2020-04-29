@@ -9,9 +9,9 @@ Vec
   - * remove_items(&1, &8) VARARG
   - * remove_item_nth(&1, 2)
   - * remove_items_nth([&1, 2], [&7, 4]) VARARG
-
+```
 ___________________________
-
+```rust
 VecDeque
   - prepend() exist in LinkedList
   - * inserts(0:'a', 1:'b', 2:'c') VARARG
