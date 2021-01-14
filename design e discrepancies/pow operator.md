@@ -19,5 +19,3 @@ possible substitutes in UTF-8:
 ª º ¨ ¯ ® ·
 
 £ ¢ § ¡ ¤ ¥ ¦ © « ± µ ¶ ¸ ¿ Ø ø Þ þ ð ÷
-
-possible substitutes in Unicode: ⊻ ⊕
