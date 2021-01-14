@@ -10,7 +10,9 @@ possible substitutes in the ASCII table:
 
 possible substitutes in UTF-8:
 
-§ ¬
+§
+
+¬
 
 × ¡ ¤ ¦ Þ « »
 
