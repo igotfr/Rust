@@ -6,6 +6,8 @@ in Rust: .pow() or .powf()
 
 in Julia: ^
 
+___
+
 possible substitutes in the ASCII table:
 
 ^
@@ -13,6 +15,8 @@ possible substitutes in the ASCII table:
 ~ ´ `
 
 @ # $ : ? \
+
+___
 
 possible substitutes in UTF-8:
 
