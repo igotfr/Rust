@@ -1,5 +1,7 @@
 https://github.com/rust-lang/rfcs/issues/3047
 
+### best alternative: ^
+
 in Rust: .pow() or .powf()
 
 in Julia: ^
