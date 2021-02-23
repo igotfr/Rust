@@ -2,7 +2,7 @@
 --- | ----
 pow | ^
 NOT | ¬
-inequality | ¬=
+inequality | ¬= ≠
 1' complement | ¹ ´ `
 XOR | ~ ⊻ ⊕
 factorial | !
