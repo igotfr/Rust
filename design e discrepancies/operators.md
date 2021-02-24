@@ -7,3 +7,5 @@ inequality | ¬= ≠
 XOR | ~ ⊻ ⊕
 factorial | !
 range | 
+
+https://github.com/rust-lang/rfcs/issues/3047
