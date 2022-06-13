@@ -21,9 +21,9 @@ Proverb
 
 Bob
 
-Series
-
 **Collatz Conjecture
+
+Series
 
 ## Iteration
 Magazine Cutout
