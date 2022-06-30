@@ -15,3 +15,5 @@ generics3.rs
 option2.rs
 
 option3.rs
+
+standard_library_types
