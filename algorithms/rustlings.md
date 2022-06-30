@@ -17,3 +17,5 @@ option2.rs
 option3.rs
 
 standard_library_types
+
+threads
