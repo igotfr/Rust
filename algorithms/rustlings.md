@@ -21,3 +21,11 @@ standard_library_types
 threads
 
 macros
+
+quiz4.rs
+
+clippy
+
+conversions
+
+advanced_errors
