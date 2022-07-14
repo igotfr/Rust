@@ -13,3 +13,8 @@ https://devoxi.com/rust-struct-dir-pt/
 
 ### macro
 https://veykril.github.io/tlborm/
+
+### async
+https://cfsamson.github.io/book-exploring-async-basics/
+
+https://cfsamson.github.io/books-futures-explained/
