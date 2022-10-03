@@ -4,6 +4,8 @@ https://www.rust-lang.org/learn
 
 https://doc.rust-lang.org/std/index.html
 
+https://tourofrust.com
+
 https://lborb.github.io/book/official.html
 
 https://unsafe.rs/guia-rust/
