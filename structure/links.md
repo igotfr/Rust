@@ -4,11 +4,15 @@ https://www.rust-lang.org/learn
 
 https://doc.rust-lang.org/std/index.html
 
-https://tourofrust.com
-
 https://lborb.github.io/book/official.html
 
 https://unsafe.rs/guia-rust/
+
+#### Cheat sheets
+
+https://tourofrust.com
+
+https://cheats.rs/
 
 ### mod
 https://fasterthanli.me/articles/rust-modules-vs-files
