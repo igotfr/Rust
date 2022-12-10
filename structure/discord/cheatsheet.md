@@ -3,3 +3,9 @@
 
 **Rust Language Cheat Sheet:** https://cheats.rs/
     Lista de vários conhecimentos comuns sobre Rust
+
+**Aprendendo Rust:** https://learning-rust.github.io/
+    Tutorial da linguagem Rust
+    
+**Primeiros passos em Rust:** https://learn.microsoft.com/en-gb/training/paths/rust-first-steps/
+    Tutorial de Rust da Microsoft
