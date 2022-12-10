@@ -13,6 +13,9 @@
 **Livro do Rust Nightly:** https://doc.rust-lang.org/nightly/book/
     Contém praticamente tudo o que você precisa saber sobre Rust, é um material alpha
 
+**Rust por Examplos:** https://doc.rust-lang.org/stable/rust-by-example/
+    Um bom tutorial para quem já sabe programar
+
 **Official Rust Books:** https://lborb.github.io/book/official.html
     Livro com diversos livros oficiais e não-oficiais de Rust
 
