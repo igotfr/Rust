@@ -18,6 +18,9 @@
 
 **Official Rust Books:** https://lborb.github.io/book/official.html
     Livro com diversos livros oficiais e não-oficiais de Rust
+    
+**Curso de Rust do Bruno Rocha no canal CodeShow:** https://www.youtube.com/playlist?list=PLjSf4DcGBdiGCNOrCoFgtj0KrUq1MRUME
+    Curso em desenvolvimento sobre o básico da linguagem Rust
 
 **Guia Rust:** https://unsafe.rs/guia-rust/
     Guia com diversos recursos de Rust
