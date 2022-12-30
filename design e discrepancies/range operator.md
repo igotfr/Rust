@@ -4,6 +4,12 @@ in Julia: :
 
 ___
 
+most likely substitutes in the ASCII table:
+
+~ : #
+
+___
+
 possible substitutes in the ASCII table:
 
 ~ @ # $ : \
