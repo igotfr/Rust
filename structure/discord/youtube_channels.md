@@ -17,7 +17,13 @@ Coding Tech: https://www.youtube.com/@CodingTech
 
 Jon Gjengset: https://www.youtube.com/@jonhoo
 
+Tsoding Daily: https://www.youtube.com/@TsodingDaily
+
 Low Level Learning: https://www.youtube.com/@LowLevelLearning
+
+No Boilerplate: https://www.youtube.com/@NoBoilerplate
+
+Tom McGurl: https://www.youtube.com/@TomMcGurl
 
 fasterthanlime: https://www.youtube.com/@fasterthanlime
 
