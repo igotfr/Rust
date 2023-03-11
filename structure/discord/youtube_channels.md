@@ -13,6 +13,8 @@ Niko Matsakis: https://www.youtube.com/@nikomatsakis
 
 Rust Belt Rust Conference: https://www.youtube.com/@rustbeltrust
 
+Skills Matter: https://www.youtube.com/@skills_matter
+
 Coding Tech: https://www.youtube.com/@CodingTech
 
 Jon Gjengset: https://www.youtube.com/@jonhoo
@@ -28,6 +30,10 @@ Tom McGurl: https://www.youtube.com/@TomMcGurl
 fasterthanlime: https://www.youtube.com/@fasterthanlime
 
 Chris Hay: https://www.youtube.com/@chrishayuk
+
+Nathan Stocks: https://www.youtube.com/@NathanStocks
+
+Derek Banas: https://www.youtube.com/@derekbanas
 
 ### Canais no Youtube em português
 Back-end Souls: https://www.youtube.com/@BackendSouls
