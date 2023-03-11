@@ -7,6 +7,10 @@ Jeremy Chone: https://www.youtube.com/@JeremyChone
 
 Marc Empunkt: https://www.youtube.com/@marcempunkt9737
 
+chris biscardi: https://www.youtube.com/@chrisbiscardi
+
+Tensor Programming: https://www.youtube.com/@TensorProgramming
+
 Rust: https://www.youtube.com/@RustVideos
 
 Niko Matsakis: https://www.youtube.com/@nikomatsakis
@@ -34,6 +38,8 @@ Chris Hay: https://www.youtube.com/@chrishayuk
 Nathan Stocks: https://www.youtube.com/@NathanStocks
 
 Full Human: https://www.youtube.com/@FullHuman
+
+CodeAhead: https://www.youtube.com/@CodeAhead
 
 Derek Banas: https://www.youtube.com/@derekbanas
 
