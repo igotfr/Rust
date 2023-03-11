@@ -33,7 +33,11 @@ Chris Hay: https://www.youtube.com/@chrishayuk
 
 Nathan Stocks: https://www.youtube.com/@NathanStocks
 
+Full Human: https://www.youtube.com/@FullHuman
+
 Derek Banas: https://www.youtube.com/@derekbanas
+
+Coding with Lewis: https://www.youtube.com/@CodingWithLewis
 
 ### Canais no Youtube em português
 Back-end Souls: https://www.youtube.com/@BackendSouls
