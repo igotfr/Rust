@@ -37,7 +37,11 @@ Chris Hay: https://www.youtube.com/@chrishayuk
 
 Nathan Stocks: https://www.youtube.com/@NathanStocks
 
+Microsoft Reactor: https://www.youtube.com/@MicrosoftReactor
+
 Full Human: https://www.youtube.com/@FullHuman
+
+Tech With Tim: https://www.youtube.com/@TechWithTim
 
 CodeAhead: https://www.youtube.com/@CodeAhead
 
@@ -55,3 +59,5 @@ Ricardo da Rocha: https://www.youtube.com/@ricardorochadev
 Rust Lang BR: https://www.youtube.com/@RustLangBR
 
 Lanby λ: https://www.youtube.com/@Lanbyteach
+
+Manual do Código: https://www.youtube.com/@ManualdoCodigo
