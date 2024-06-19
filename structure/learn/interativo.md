@@ -6,3 +6,5 @@
 
 **Exercism Trilha de Rust:** https://exercism.org/tracks/rust
     Aprenda Rust fazendo exercícios
+
+https://rust-exercises.com/
