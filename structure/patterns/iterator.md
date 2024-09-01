@@ -1,0 +1,1 @@
+https://refactoring.guru/pt-br/design-patterns/iterator/rust/example#example-0
