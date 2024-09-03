@@ -3,3 +3,5 @@
 
 **Futures Explained in 200 Lines of Rust:** https://cfsamson.github.io/books-futures-explained/
     Este livro almeja explicar Futures em Rust usando uma abordagem baseada em exemplos, explorando por que eles são projetados da maneira que são e como funcionam
+
+https://www.eventhelix.com/rust/rust-to-assembly-async-await/
