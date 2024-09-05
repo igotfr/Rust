@@ -19,6 +19,8 @@ ___
 https://rust-cli.github.io/book/index.html
 
 https://rustwasm.github.io/docs/book/introduction.html
+
+https://doc.rust-lang.org/stable/embedded-book/intro/index.html
 ___
 https://rust-lang.github.io/rust-forge/index.html
 
