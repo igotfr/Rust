@@ -12,6 +12,10 @@ https://doc.rust-lang.org/rustc/index.html
 
 https://doc.rust-lang.org/error_codes/error-index.html
 ___
+https://rust-lang.github.io/impl-trait-initiative/index.html
+
+https://rust-lang.github.io/async-book/01_getting_started/01_chapter.html
+___
 https://rust-cli.github.io/book/index.html
 
 https://rustwasm.github.io/docs/book/introduction.html
@@ -19,10 +23,6 @@ ___
 https://rust-lang.github.io/rust-forge/index.html
 
 https://rust-lang.github.io/api-guidelines/about.html
-
-https://rust-lang.github.io/impl-trait-initiative/index.html
-
-https://rust-lang.github.io/async-book/01_getting_started/01_chapter.html
 
 https://rust-lang.github.io/mdBook/index.html
 
