@@ -11,9 +11,9 @@ https://doc.rust-lang.org/rustdoc/index.html
 https://doc.rust-lang.org/rustc/index.html
 
 https://doc.rust-lang.org/error_codes/error-index.html
-___
-https://doc.rust-lang.org/reference/index.html
 
+https://doc.rust-lang.org/reference/index.html
+___
 https://doc.rust-lang.org/edition-guide/index.html
 
 https://rust-lang.github.io/impl-trait-initiative/index.html
