@@ -10,6 +10,7 @@ https://doc.rust-lang.org/rustdoc/index.html
 
 https://doc.rust-lang.org/rustc/index.html
 
+https://doc.rust-lang.org/error_codes/error-index.html
 ___
 https://rust-lang.github.io/rust-forge/index.html
 
