@@ -6,6 +6,8 @@ https://doc.rust-lang.org/rust-by-example/index.html
 
 https://doc.rust-lang.org/cargo/index.html
 
+https://doc.rust-lang.org/rustdoc/index.html
+
 https://rust-lang.github.io/rust-forge/index.html
 
 https://rust-lang.github.io/api-guidelines/about.html
