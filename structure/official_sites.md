@@ -1,3 +1,5 @@
+https://doc.rust-lang.org/std/index.html
+
 https://rustlings.cool/
 
 https://rust-lang.github.io/futures-rs/
