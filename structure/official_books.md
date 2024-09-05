@@ -1,5 +1,7 @@
 https://rust-lang.github.io/book/title-page.html
 
+https://doc.rust-lang.org/book/title-page.html
+
 https://rust-lang.github.io/rust-forge/index.html
 
 https://rust-lang.github.io/api-guidelines/about.html
