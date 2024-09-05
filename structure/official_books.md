@@ -11,5 +11,7 @@ https://rust-lang.github.io/async-book/01_getting_started/01_chapter.html
 https://rust-lang.github.io/mdBook/index.html
 
 https://rust-lang.github.io/rust-bindgen/introduction.html
+
+https://rust-lang.github.io/ctcft/welcome.html
 ___
 https://rustc-dev-guide.rust-lang.org/index.html
