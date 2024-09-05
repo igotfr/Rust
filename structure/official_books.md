@@ -15,6 +15,8 @@ https://doc.rust-lang.org/error_codes/error-index.html
 https://doc.rust-lang.org/reference/index.html
 
 https://doc.rust-lang.org/nomicon/index.html
+
+https://doc.rust-lang.org/nightly/unstable-book/the-unstable-book.html
 ___
 https://doc.rust-lang.org/edition-guide/index.html
 
