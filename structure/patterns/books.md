@@ -1,0 +1,1 @@
+https://rust-unofficial.github.io/patterns/intro.html
